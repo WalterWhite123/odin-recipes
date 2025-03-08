@@ -11,4 +11,3 @@ I will practice all i've learned in the html section of the odin project:
     - listing elements
 
  
- After doing it : 
