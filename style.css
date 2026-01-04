@@ -1,0 +1,29 @@
+*{
+    font-family: "Monaco",verdana,sans-serif;
+    box-sizing: border-box;
+}
+
+
+.recipe-list h1{
+    text-align: center;
+}
+
+
+.recipe-list li{
+    list-style: none;
+}
+
+
+.recipe-list a{
+    text-decoration: none;
+    color:beige;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+
+    background-color: rgb(54, 131, 199);
+    
+    display:block;
+    padding: 40px;
+    margin: 50px 7px;
+}
