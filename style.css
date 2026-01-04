@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-
+/* Homepage style */
 .recipe-list h1{
     text-align: center;
 }
@@ -26,4 +26,54 @@
     display:block;
     padding: 40px;
     margin: 50px 7px;
+}
+
+/* General style */
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+img{
+    display:block;
+    margin: 0 auto;
+}
+
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+ p{
+    text-align: center;
+    width:1000px ;
+    margin: 0 auto;
+}
+
+.description{
+    margin:8px auto;
+}
+
+.ingredient ul, .steps ol,.list{
+    width: 800px;
+    margin: 2px auto;
+   
+}
+
+
+
+.list h3{
+    text-align: center;
+    
+}
+
+#broth,#spaghetti {
+    list-style: none;
+}
+
+.ingredient ul li, .steps ol li{
+    margin:10px 0;
 }
